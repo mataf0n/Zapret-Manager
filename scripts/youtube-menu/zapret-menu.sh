@@ -4,7 +4,7 @@
 # Автоматическое тестирование 16 стратегий для YouTube
 
 CONFIG_DIR="/opt/zapret"
-STRATEGY_FILE="$CONFIG_DIR/nfq/desync.txt"
+STRATEGY_FILE="/opt/zapret/nfq/desync.txt"
 STRATEGIES_DIR="$CONFIG_DIR/strategies"
 BACKUP_DIR="$CONFIG_DIR/backups"
 LOG_FILE="/var/log/zapret.log"
